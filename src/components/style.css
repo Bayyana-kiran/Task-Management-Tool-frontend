@@ -1,0 +1,14 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.hover\:text-blue-400:hover {
+  color: #60a5fa; /* Change to your desired hover color */
+}
+.text-center {
+  text-align: center;
+}
